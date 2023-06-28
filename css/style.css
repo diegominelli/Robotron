@@ -209,6 +209,8 @@ main {
     margin: 10px 0 0;
 }
 
+
+
 @media screen and (max-width: 1600px) {
     body { 
         font-size: 14px;
@@ -230,4 +232,18 @@ main {
         height: 80vh;
         margin: 10vh auto;
     }
+}
+
+.alterar {
+    margin: 2px;
+    width: 200px;
+}
+
+.botoes {
+   position: relative;
+   margin-top: 25px;
+   right: 5%;
+   bottom: 10%;
+   display: flex;
+   max-width: 500px;
 }
